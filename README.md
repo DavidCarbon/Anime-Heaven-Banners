@@ -9,6 +9,6 @@ Anime Heaven Banner Contributor, and I release the banner assets for public rele
 
 
 <h2> To Do List </h2>
-1. Fully Learn Photoshop
-+From the current Asset releases, you would notice that I switch back and forth with Paint.NET and Photoshop
-2. Choosing Series I enjoyed
+- [] Fully Learn Photoshop
+From the current Asset releases, you would notice that I switch back and forth with Paint.NET and Photoshop
+- []Choosing Series I enjoyed
