@@ -1,7 +1,7 @@
 # Anime-Heaven-Banners
 Anime Heaven Banner Contributor, and I release the banner assets for public release.
 
-[![Build Status](https://travis-ci.org/SoapboxRaceWorld/GameLauncher_NFSW.svg?branch=master)](https://travis-ci.org/SoapboxRaceWorld/GameLauncher_NFSW)
+[![Build Status](https://img.shields.io/badge/Rank-OTAKU-darkviolet.svg)](#)
 
 | Name of Series | Progress| Downloadable Assets|
 | -------------- |:-------:| ------------------:|
