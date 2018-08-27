@@ -15,3 +15,5 @@ Anime Heaven Banner Contributor, and I release the banner assets for public rele
 - [ ] Choosing Series I enjoyed
 - [X] Original Background Design
 - [ ] Fast & Quality Banner Output
+
+<div style="display:none"><a href='http://animeheaven.eu'><!--Ahh I see you found this :) well this is the site I "work" with. So... you saw nothing --></a></div>
