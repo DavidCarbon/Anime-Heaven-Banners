@@ -13,5 +13,5 @@ Anime Heaven Banner Contributor, and I release the banner assets for public rele
 - [ ] Fully Learn Photoshop (From the current Asset releases, you would notice that I switch back and forth with Paint.NET and Photoshop
 )
 - [ ] Choosing Series I enjoyed
-- [X] Original Background Design
+- [X] Original Background Design?
 - [ ] Fast & Quality Banner Output
