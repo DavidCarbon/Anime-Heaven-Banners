@@ -9,6 +9,10 @@ Anime Heaven Banner Contributor, and I release the banner assets for public rele
 
 
 <h2> To Do List </h2>
-- [] Fully Learn Photoshop
-From the current Asset releases, you would notice that I switch back and forth with Paint.NET and Photoshop
-- []Choosing Series I enjoyed
+<ul class="contains-task-list">
+<li class="task-list-item"><input id="" disabled="" class="task-list-item-checkbox" checked="" type="checkbox"> Fully Learn Photoshop (From the current Asset releases, you would notice that I switch back and forth with Paint.NET and Photoshop
+)</li>
+<li class="task-list-item"><input id="" disabled="" class="task-list-item-checkbox" type="checkbox"> Choosing Series I enjoyed</li>
+<li class="task-list-item"><input id="" disabled="" class="task-list-item-checkbox" checked="" type="checkbox">Original Background Design </li>
+<li class="task-list-item"><input id="" disabled="" class="task-list-item-checkbox" checked="" type="checkbox">Fast & Quality Banner Out Put</li>
+</ul>
