@@ -6,8 +6,6 @@ Anime Heaven Banner Contributor, and I release the banner assets for public rele
 | New Game S2    | Completed| [Yes](https://github.com/1DavidCarbon/Anime-Heaven-Banners/releases/tag/New-Game-S2)|
 | Class of the Elite| Completed| [Yes](https://github.com/1DavidCarbon/Anime-Heaven-Banners/releases/tag/Class-of-the-Elite)|
 | New Game S1  | Failed| [Yes](https://github.com/1DavidCarbon/Anime-Heaven-Banners/releases/tag/New-Game-S1)|
-
-
 <h2> To Do List </h2>
 <ul class="contains-task-list">
 <li class="task-list-item"><input id="" disabled="" class="task-list-item-checkbox" checked="" type="checkbox"> Fully Learn Photoshop (From the current Asset releases, you would notice that I switch back and forth with Paint.NET and Photoshop
