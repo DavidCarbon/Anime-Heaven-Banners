@@ -5,7 +5,7 @@ Anime Heaven Banner Contributor, and I release the banner assets for public rele
 | -------------- |:-------------:| -------------------:|
 | New Game S2    | Completed     | Yes                 |
 | Class of the Elite| Completed     | Yes                 |
-| New Game S1  | In Progress   | No                  |
+| New Game S1  | Failed   | Yes                  |
 
 
 <h2> To Do List </h2>
