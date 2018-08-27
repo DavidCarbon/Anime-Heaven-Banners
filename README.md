@@ -1,4 +1,4 @@
-# Anime-Heaven-Banners
+# Anime Heaven EU Banners
 Anime Heaven Banner Contributor, and I release the banner assets for public release.
 
 [![Build Status](https://img.shields.io/badge/Rank-OTAKU-darkviolet.svg)](#)
