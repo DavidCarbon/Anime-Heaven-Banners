@@ -14,5 +14,5 @@ Anime Heaven Banner Contributor, and I release the banner assets for public rele
 )</li>
 <li class="task-list-item"><input id="" disabled="" class="task-list-item-checkbox" type="checkbox"> Choosing Series I enjoyed</li>
 <li class="task-list-item"><input id="" disabled="" class="task-list-item-checkbox" checked="" type="checkbox">Original Background Design </li>
-<li class="task-list-item"><input id="" disabled="" class="task-list-item-checkbox" checked="" type="checkbox">Fast & Quality Banner Out Put</li>
+<li class="task-list-item"><input id="" disabled="" class="task-list-item-checkbox" checked="" type="checkbox">Fast & Quality Banner Output</li>
 </ul>
