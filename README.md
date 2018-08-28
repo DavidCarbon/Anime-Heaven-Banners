@@ -10,7 +10,7 @@ Anime Heaven Banner Contributor, and I release the banner assets for public rele
 | New Game S1  | Failed| [Yes](https://github.com/1DavidCarbon/Anime-Heaven-Banners/releases/tag/New-Game-S1)|
 
 ## Todo
-- [ ] Fully Learn Photoshop (From the current Asset releases, you would notice that I switch back and forth with Paint.NET and Photoshop
+- [ ] Fully Learn Photoshop (From the current [Asset releases](https://github.com/1DavidCarbon/Anime-Heaven-Banners/releases), you would notice that I switch back and forth with [Paint.NET](https://www.getpaint.net) and [Photoshop](https://www.adobe.com/products/photoshop.html)
 )
 - [ ] Choosing Series I enjoyed
 - [X] Original Background Design?
