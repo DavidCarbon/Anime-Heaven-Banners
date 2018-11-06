@@ -1,6 +1,9 @@
 # Anime Heaven EU Banners
 Anime Heaven Banner Contributor, and I release the banner assets for public release. <div style="display:none"><a href='http://animeheaven.eu'><!--Ahh I see you found this :) well this is the site I "work" with. So... you saw nothing --></a></div>
+Rank Update
+[![Build Status](https://img.shields.io/badge/Rank-SENPAI-blue.svg)](#)
 
+Before Rank Update
 [![Build Status](https://img.shields.io/badge/Rank-OTAKU-darkviolet.svg)](#)
 
 | Name of Series | Progress| Downloadable Assets|
