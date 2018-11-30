@@ -16,6 +16,6 @@ Before Rank Update
 ## Todo
 - [ ] Fully Learn Photoshop (From the current [Asset releases](https://github.com/1DavidCarbon/Anime-Heaven-Banners/releases), you would notice that I switch back and forth with [Paint.NET](https://www.getpaint.net) and [Photoshop](https://www.adobe.com/products/photoshop.html)
 )
-- [ ] Choosing Series I enjoyed
+- [X] Choosing Series I enjoyed
 - [X] Original Background Design?
 - [ ] Fast & Quality Banner Output
