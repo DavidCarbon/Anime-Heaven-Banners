@@ -8,6 +8,8 @@ Before Rank Update
 
 | Name of Series | Progress| Downloadable Assets|
 | -------------- |:-------:| ------------------:|
+| Kakegurui S2    | Polishing | [No](https://github.com/1DavidCarbon/Anime-Heaven-Banners/releases/tag/Kakegurui-S2)|
+| Kakegurui    | Failed | [No](https://github.com/1DavidCarbon/Anime-Heaven-Banners/releases/tag/Kakegurui)|
 | New Game S2    | Completed| [Yes](https://github.com/1DavidCarbon/Anime-Heaven-Banners/releases/tag/New-Game-S2)|
 | Class of the Elite| Completed| [Yes](https://github.com/1DavidCarbon/Anime-Heaven-Banners/releases/tag/Class-of-the-Elite)|
 | New Game S1  | Failed| [Yes](https://github.com/1DavidCarbon/Anime-Heaven-Banners/releases/tag/New-Game-S1)|
